@@ -2,7 +2,7 @@
 
 A flagship, production-feel clothing storefront built as a frontend portfolio piece. The full shopping journey works end to end — **browse → product → cart → multi-step checkout → confirmation** — with a restrained, editorial design language inspired by Scandinavian minimal retail (Weekday's classic look).
 
-> **Live demo:** _add your Vercel URL here after deploying_
+> **Live demo:** **[e-commerce-clothing-sable.vercel.app](https://e-commerce-clothing-sable.vercel.app/)**
 
 Frontend-only: product data comes from a public API and payments are simulated (no real processing).
 
